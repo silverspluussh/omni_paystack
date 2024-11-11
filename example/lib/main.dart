@@ -41,15 +41,15 @@ class Examm extends StatelessWidget {
                       log(response.message);
                     },
                     secretKey:
-                        "sk_test_8e7c31c8cba584befafe04a48f49fbe562e044a8",
+                        "****************",
                     reference: ref,
-                    recipientEmail: "pantagoros@gmail.com",
+                    recipientEmail: "****************",
                     onFailed: () {},
                     metaData: {"time": "monday"},
-                    callBackUrl: "www.telicalhealth.com",
+                    callBackUrl: "****************",
                     currency: Currency.GHS,
                     channel: PaystackPaymentChanel.mobile_mobile,
-                    amount: 12203);
+                    amount: 00000);
               },
               child: Text("pay with omni"),
             )
