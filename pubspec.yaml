@@ -1,7 +1,6 @@
 name: omni_paystack
 description: "Unofficial package for paystack webview terminal"
 version: 0.0.1
-author: Saint Splusshh
 homepage: https://github.com/silverspluussh/omni_paystack.git
 
 environment:
